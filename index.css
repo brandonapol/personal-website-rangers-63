@@ -1,0 +1,114 @@
+
+
+#glacier {
+    max-width: 700px;
+    padding: 18px;
+}
+
+#ketchikan {
+    max-width: 100%;
+    margin-top: 18px;
+}
+
+#windmill {
+    max-width: 100%;
+}
+
+#kodiak {
+    max-width: 1000px;
+    padding: 18px;
+}
+
+#senior {
+    max-width: 700px;
+}
+
+#picture {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    padding: 10px;
+    background-color:  gray;
+    font-size: 24px;
+    border-style: solid;
+    border-color: white;
+    font-family: Monospace;
+}
+
+.middle {
+    display: flex;
+    justify-content: space-between;
+}
+
+.gallery-main {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+}
+
+.gallery {
+    max-width: 41%;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: solid;
+    border-width: 20px;
+    border-color:  rgb(104, 144, 171);
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: Monospace;
+}
+
+h2 {
+    color: white;
+    font-family: Monospace;
+}
+
+h3 {
+    color: white;
+    font-family: Monospace;
+}
+
+h4 {
+    color: white;
+    font-family: Monospace;
+}
+
+h5 {
+    color: white;
+    font-family: Monospace;
+}
+
+h6 {
+    color: white;
+    font-family: Monospace;
+}
+
+body {
+    background: black;
+}
+
+ul {
+    color: white;
+    font-family: Monospace;
+}
+
+header {
+    background-color: rgb(104, 144, 171);
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+p {
+    font-family: Monospace;
+    color: white;
+    background-color: rgb(104, 144, 171);
+    font-size: 18px;
+    padding: 25px;
+}
